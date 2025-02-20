@@ -8,12 +8,16 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
 }
-h1 {
-    font-size: 28px;
+p {
+    font-size: 17px;
     color: rgb(0, 0, 0);
     background-color: white;
     padding: 18px;
     border-radius: 13px;
+    opacity: 65%;
+}
+span{
+    color: #262262;
 }
 a {
     text-decoration: none;
@@ -49,7 +53,7 @@ section.link .linkitem a {
     width: 100%;
     border: 1px #000 solid;
     padding: 16px 0;
-    text-align:center ;
+    text-align: center ;
     color: #f9f9f9;
     border-radius: 12px;
     box-shadow: 0px 0px #000;
